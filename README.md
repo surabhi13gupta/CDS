@@ -1,2 +1,2 @@
 # MP
-Mini Projects
+Mini Projects and Assignments
